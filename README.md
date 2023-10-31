@@ -4,7 +4,7 @@ Challenge 4 - Pandas - JW
 
 **Purpose**
 
-THe purpose of this assignment is to analyze school data and determine the best types of schools and any factors that affect them.
+The purpose of this assignment is to analyze school data and determine the best types of schools and any factors that affect them.
 
 **Conclusions and Final Analysis**
 
